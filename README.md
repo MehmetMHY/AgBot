@@ -20,3 +20,9 @@ https://github.com/zsmeton/AgBot
 - Arudino Uno
 - DC Motors, Encoders, Motor Controllers, Battery, etc.
 
+## Developers for ROS 2018-2019 AgBot Code:
+- Zach Smeton     (https://github.com/zsmeton)
+- Kevin Barnard   (https://github.com/kevinsbarnard)
+- Amit Rotem      (NA)
+- Mehmet Yilmaz   (https://github.com/MehmetMHY)
+
